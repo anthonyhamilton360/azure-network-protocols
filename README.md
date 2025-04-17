@@ -41,21 +41,11 @@ I begin the lab by creating two virtual machines in Azure. One Windows10 vm and 
 
 <p>
   
-![Screenshot 2025-03-08 201102](https://github.com/user-attachments/assets/fbee794a-58b8-4221-807e-6a22caae9159)
-
-</p>
-<p>
-Once in the Windows10 vm, opened up Microsoft Edge and went to https://www.wireshark.org
-</p>
-<br />
-
-<p>
-  
 ![Screenshot 2025-03-08 201926](https://github.com/user-attachments/assets/3707e917-75cf-44b1-b1d0-f70c1dd3e6a9)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once in the Windows10 vm, opened up Microsoft Edge and went to https://www.wireshark.org
 </p>
 <br />
 
