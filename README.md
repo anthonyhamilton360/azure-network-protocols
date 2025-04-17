@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Open Wireshark and start packet capture
 - Within Wireshark, filter for ICMP traffic only
 - Attempt to ping the Ubuntu VM (linux-vm) from within the Windows 10 VM
-- Configuring a Firewall [Network Security Group
+- Configuring a Firewall [Network Security Group]
 
 <h2>Actions and Observations</h2>
 
