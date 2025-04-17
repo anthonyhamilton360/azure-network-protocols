@@ -35,21 +35,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I begin the lab by creating two virtual machines in Azure. One Windows10 vm and a linux-vm. They are both in East US 2 region with the same resource group named AnthonyNetworkingActivities as well as the same virtual network. I opened Remote Desktop and copied the windows 10 vm IP Address and pasted in RDP and clicked Connect.
 </p>
 <br />
-
-<p>
-  
-![Screenshot 2025-03-08 201023](https://github.com/user-attachments/assets/fbb9a2a6-5e0f-4ede-b036-ed31f8e5376c)
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 
 <p>
   
@@ -57,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once in the Windows10 vm, opened up Microsoft Edge and went to https://www.wireshark.org
 </p>
 <br />
 
