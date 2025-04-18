@@ -141,7 +141,7 @@ Open up Windows Powershell.
 
 </p>
 <p>
-I tried pinging the Linux virtual machine using the public IP address 10.0.0.5 to be sure it was responding, and it worked.
+To make sure it was responding, I attempted to ping the Linux virtual machine using the public IP address 10.0.0.5, and it was successful.  Wireshark displays the communication being pinged to and from the Linux and Windows virtual machines.
 </p>
 <br />
 
@@ -151,7 +151,7 @@ I tried pinging the Linux virtual machine using the public IP address 10.0.0.5 t
 
 </p>
 <p>
-Next, I typed ipconFIG /all 
+After that, I used ipconfig /all to see the network configurations and saw that the mac address and physical address in Wireshark match.
 </p>
 <br />
 
@@ -161,7 +161,7 @@ Next, I typed ipconFIG /all
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that, I entered 10.0.0.5 -t to ping continuously.
 </p>
 <br />
 
@@ -171,7 +171,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Back in Azure, I selected the linux-vm to enter into the configurations.
 </p>
 <br />
 
@@ -181,7 +181,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to Networking and Network Settings.
 </p>
 <br />
 
@@ -191,7 +191,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on the Network interface/ IP configuration to enter the settings.
 </p>
 <br />
 
